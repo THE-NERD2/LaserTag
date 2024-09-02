@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://dwpy8msopk5y6"]
+
+[ext_resource type="ArrayMesh" uid="uid://xqjhrloboon8" path="res://art/laser_2.obj" id="1_tkfy7"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Laser2" type="MeshInstance3D" parent="."]
+mesh = ExtResource("1_tkfy7")

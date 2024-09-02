@@ -1,0 +1,67 @@
+# Created using Meshport (https://github.com/random-geek/meshport).
+
+newmtl default_tree.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_tree.png
+
+newmtl default_aspen_leaves.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_aspen_leaves.png
+
+newmtl default_water_source_animated.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_water_source_animated.png
+
+newmtl default_stone.png^default_mineral_coal.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_stone.png
+
+newmtl default_leaves.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_leaves.png
+
+newmtl default_leaves_simple.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_leaves_simple.png
+
+newmtl default_dirt.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_dirt.png
+
+newmtl default_apple.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_apple.png
+
+newmtl default_grass.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_grass.png
+
+newmtl default_dirt.png^default_grass_side.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_dirt.png
+
+newmtl default_gravel.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_gravel.png
+
+newmtl default_tree_top.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_tree_top.png
+
+newmtl default_aspen_tree.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_aspen_tree.png
+
+newmtl default_jungletree_top.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_jungletree_top.png
+
+newmtl default_jungletree.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_jungletree.png
+
+newmtl default_water_flowing_animated.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_water_flowing_animated.png
+
+newmtl default_stone.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_stone.png
+
+newmtl default_silver_sand.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_silver_sand.png
+
+newmtl default_aspen_tree_top.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_aspen_tree_top.png
+
+newmtl default_jungleleaves.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_jungleleaves.png
+
+newmtl default_rainforest_litter.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_rainforest_litter.png
+
+newmtl default_dirt.png^default_rainforest_litter_side.png
+map_Kd /home/payton/.var/app/net.minetest.Minetest/.minetest/games/minetest_game/mods/default/textures/default_dirt.png

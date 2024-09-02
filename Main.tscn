@@ -1,0 +1,30 @@
+[gd_scene load_steps=5 format=3 uid="uid://ciknxnoae0wcx"]
+
+[ext_resource type="Script" path="res://WorldOption.gd" id="1_rg2ir"]
+[ext_resource type="Script" path="res://StartButton.gd" id="2_yiblt"]
+[ext_resource type="PackedScene" uid="uid://c5lyahawwnnbh" path="res://World_basic.tscn" id="3_3ydmv"]
+[ext_resource type="PackedScene" uid="uid://d4holt1c1mf6y" path="res://World_trees.tscn" id="4_qe234"]
+
+[node name="Main" type="Node3D"]
+
+[node name="FlowContainer" type="FlowContainer" parent="."]
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="WorldOption" type="OptionButton" parent="FlowContainer"]
+layout_mode = 2
+item_count = 2
+popup/item_0/text = "World_basic"
+popup/item_0/id = 0
+popup/item_1/text = "World_trees"
+popup/item_1/id = 1
+script = ExtResource("1_rg2ir")
+
+[node name="StartButton" type="Button" parent="FlowContainer"]
+layout_mode = 2
+text = "Start"
+script = ExtResource("2_yiblt")
+World_basic_scene = ExtResource("3_3ydmv")
+World_trees_scene = ExtResource("4_qe234")
+
+[node name="WorldContainer" type="Node3D" parent="."]

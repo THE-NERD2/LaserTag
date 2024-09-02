@@ -1,0 +1,4 @@
+# Created using Meshport (https://github.com/random-geek/meshport).
+
+newmtl default_silver_sandstone_block.png
+map_Kd default_silver_sandstone_block.png
